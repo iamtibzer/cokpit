@@ -1,5 +1,5 @@
 /* Cockpit : cache hors connexion. Change VERSION à chaque mise à jour de index.html. */
-const VERSION = "cockpit-v3";
+const VERSION = "cockpit-v4";
 const CORE = ["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./apple-touch-icon.png"];
 const CDN = "https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js";
 
